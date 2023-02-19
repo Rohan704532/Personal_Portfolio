@@ -1,0 +1,80 @@
+[{
+    "Functionality":"Responsive design, Page reloading on form submit",
+    "Source":"https://github.com/Rohan704532/E-Cars",
+    "title":"E-Cars",
+    "decr" :"HTML+CSS",
+    "info":"A landing page with various media elements and web forms based on the provided Figma designs",
+    "image":"Cars.png",
+    "image1":"Cars1.png",
+    "details":{"tECHNOLOGIES":"HTML/CSS",
+    "industry":"Art",
+    "Date":"November 15, 2022",
+    "URL":"https://rohan-ecars.netlify.app/"}
+},
+{
+    "Functionality":"Add task, Add priority, Delete task, Completed",
+    "Source":"https://github.com/Rohan704532/Todo-List",
+    "title":"ToDo List",
+    "decr" :"Used Vanilla JavaScript to apply logic + HTML + CSS",
+    "info":"A web application with various interactive elements (e.g. input fields, buttons).",
+    "image":"To_Do_List.png",
+    "image1":"To_Do_List1.png",
+    "details":{"tECHNOLOGIES":"HTML/CSS/JavaScript.",
+    "industry":"Art",
+    "Date":"November 25, 2022",
+    "URL":"https://rohan-projects.000webhostapp.com/"}
+},
+{
+    "Functionality":"login validation, Logout, Add Task, Complete",
+    "Source":"https://github.com/Rohan704532/ToDo-App",
+    "title":"ToDo App",
+    "decr" :"Form-validation using JS in react + Rendering the pages + HTML + CSS + Bootstrap",
+    "info":"A professional React application where you can keep your personal to-do list. With this app you can create various types of tasks, prioritize and set deadlines to them. All the data is saved in your personal account (registration with an email)",
+    "image":"ToDo_App.png",
+    "image1":"ToDo_App1.png",
+    "details":{"tECHNOLOGIES":"React/Bootstrap/Rendering",
+    "industry":"Art",
+    "Date":"December 10, 2022",
+    "URL":"https://rohantodoapp.netlify.app/"}
+},
+
+{
+    "Functionality":"Live-Tweet-Post, Sign-up with Phone/Email, Profile, Likes",
+    "Source":"https://github.com/Rohan704532/Twitter-clone",
+    "title":"Twitter-clone",
+    "decr" :"React+Formik+API+Local Storage+Hooks+Tweet+JSON",
+    "info":"Clone of twitter website where we can tweet our posts with the help of states and hooks. API has been used to fetch the JSON file.",
+    "image":"Twitter.png",
+    "image1":"Twitter1.png",
+    "details":{"tECHNOLOGIES":"Formik/API/Hooks/React/JSON ",
+    "industry":"Art",
+    "Date":"January 05, 2023",
+    "URL":"https://rohantwitterclone.netlify.app"}
+},
+{
+    "Functionality":"Add To Cart,Product Detail, View Cart, Delete Product, No of Products, category wise results ",
+    "Source":"https://github.com/Rohan704532/E-Commerce",
+    "title":"E-Commerce",
+    "decr" :"Functionalities :- Add to Cart, Favourites, Checkout etc + Props + API",
+    "info":"We will get an E-commerce website wherein we have multiple functionalities such as :- Add to Cart, Add to Favourites, Show Details, Show Cart, Login Validation etc.",
+    "image":"E_Commerce.png",
+    "image1":"E_Commerce1.png",
+    "details":{"tECHNOLOGIES":"React/Fetch API/JSON/Hooks/Navigate",
+    "industry":"Art",
+    "Date":"January 30, 2023",
+    "URL":"https://rohan-ecommerce.netlify.app"}
+},
+{
+    "Functionality":"Scroll down as per click, Go to top, Navigate to Resume, Pop up on projects, Email functionality ",
+    "Source":"https://github.com/Rohan704532/E-Cars",
+    "title":"Personal Portfolio",
+    "decr" :"An digital resume which contains all the details and personal information including links of live projects.",
+    "info":"A Production ready website with good optimization to render the different pages without taking any extra bandwidth.",
+    "image":"Portfolio.png",
+    "image1":"Portfolio1.png",
+    "details":{"tECHNOLOGIES":"React/Json/Bootstrap/Git/API/Props",
+    "industry":"Art",
+    "Date":"February 16, 2023",
+    "URL":"Https"}
+}
+]

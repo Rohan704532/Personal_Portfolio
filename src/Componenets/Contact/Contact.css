@@ -1,0 +1,103 @@
+.contact{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.contact>h1{
+    color: black;
+    opacity: 0.1;
+    font-size: 115px;
+}
+.my_work1{
+    font-weight: bold;
+    color: black;
+    bottom: -3px;
+    position: absolute;
+    top: 5;
+    top: 4104px;
+    left: 637px;
+    font-size: 40px;
+}
+.hr4{
+    left: 728px;
+    position: absolute;
+    color: black;
+    border: 2px solid green;
+    top: 4149px;
+    width: 52px;
+}
+
+.background{
+    display: flex;
+    flex-direction: column;
+    height: 630px;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+}
+.flex_con{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 85px;
+}
+.address{
+    width: 225px;
+    letter-spacing: 4px;
+}
+
+.form{
+    flex-direction: column;
+    display: flex;
+}
+.left-form{
+    width: 913px;
+}
+
+.inputs{
+    height: 34px;
+    /* width: 19px; */
+    border-radius: 7px;
+    margin-bottom: 20px;
+    border-color: #dae1e3;
+    border: none;
+    border: 1px solid;
+}
+
+.submit{
+    display: flex;
+    justify-content: center;
+}
+.b{
+    
+    border-radius: 13px;
+    border: -2px;
+    color: white;
+    background-color: green;
+    height: 41px;
+    width: 122px;
+    border-radius: 3;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.b:hover{
+    background-color: darkgreen
+}
+.ma{
+    margin-bottom: 15px;
+    letter-spacing: 1px;
+    display: flex;
+}
+.mar{
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+.svg5{
+    margin-right: 7px;
+}
+#add{
+    margin-bottom: 5px;
+}
+#send_me{
+    margin-bottom: 20px;
+}

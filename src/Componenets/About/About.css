@@ -1,0 +1,87 @@
+.about>h1{
+    color: black;
+    opacity: 0.1;
+    font-size: 115px;
+}
+.about{
+    display: flex;
+    justify-content: center;
+    margin-top: 28px;
+}
+.know{
+    font-weight: bold;
+    color: black;
+    /* bottom: -3px; */
+    position: absolute;
+    top: 5;
+    top: 781px;
+    left: 617px;
+    font-size: 40px;
+}
+
+.hr{
+    left: 732px;
+    position: absolute;
+    color: black;
+    border: 2px solid green;
+    top: 831px;
+    width: 52px;
+}
+.main{
+    color: black;
+}
+.intro{
+    display: flex;
+    margin: 45px 0px;
+    padding: 0px 120px;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.personal_info{
+    list-style: none;
+}
+
+#line{
+    margin-bottom: 15px;
+}
+#margin_right{
+    margin-right: 40px;
+}
+.li{
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eaeaea;
+    margin-bottom: 15px;
+}
+
+.cv{
+    background-color: green;
+    color: white;
+    transition: 0.5s;
+    width: 190px;
+    margin-bottom: 50px;
+}
+.cv:hover{
+    background-color: rgb(0, 78, 0);
+}
+
+.add_on{
+    display: flex;
+    justify-content: space-around;
+}
+.add_on_li{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.add_on_li_sp{
+    opacity: 0.4;
+    font-size: 50px;
+}
+.span_p{
+    opacity: 0.9;
+}
+.add{
+    margin-bottom: 50px;
+}

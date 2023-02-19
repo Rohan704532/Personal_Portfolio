@@ -1,0 +1,148 @@
+.main{
+    background-color:whitesmoke
+}
+
+.summary{
+    display: flex;
+    justify-content: center;
+}
+
+.summary>h1{
+    color: black;
+    opacity: 0.1;
+    font-size: 115px;
+    margin: 50px;
+}
+.resume{
+    position: absolute;
+    font-size: 40px;
+    top: 1489px;
+    font-weight: bold;
+    left: 685px;
+}
+
+.hr2{
+    left: 736px;
+    position: absolute;
+    color: black;
+    border: 2px solid green;
+    top: 1533px;
+    width: 52px;
+}
+.ed_ex{
+    display: flex;
+    justify-content:space-between;
+}
+
+.Education{
+    margin-left:100px
+}
+
+.Experience{
+    margin-right: 100px;
+}
+.Experience>h2{
+    margin-bottom: 40px;
+}
+.Education>h2{
+    margin-bottom: 40px;
+}
+
+.skills2{
+    display: flex;
+    margin: 0px 110px;
+    justify-content: space-between;
+}
+
+.skills1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+
+.width{
+    width: 540px;
+}
+
+.bar{
+    background-color: #e2e2e2;
+    width: 552px;
+    height: 11px;
+    border-radius: 10px;
+}
+#p_bar1{
+    height: 11px;
+    background-color: green;
+    width: 506px;
+    border-radius: 10px;
+}
+
+#p_bar2{
+    height: 11px;
+    background-color: green;
+    width: 385px;   
+    border-radius: 10px;
+}
+#p_bar3{
+    height: 11px;
+    background-color: green;
+    width: 460px; 
+    border-radius: 10px;  
+}
+#p_bar4{
+    height: 11px;
+    background-color: green;
+    width: 410px;  
+    border-radius: 10px; 
+}
+#p_bar5{
+    height: 11px;
+    background-color: green;
+    width: 305px;   
+    border-radius: 10px;
+}
+#p_bar6{
+    height: 11px;
+    background-color: green;
+    width: 450px;
+    border-radius: 10px;
+}
+#p_bar7{
+    height: 11px;
+    background-color: green;
+    width: 450px;
+    border-radius: 10px;
+}
+#p_bar8{
+    height: 11px;
+    background-color: green;
+    width: 500px;
+    border-radius: 10px;
+}
+.contain{
+    margin-top: 30px;
+}
+#my_skills{
+    margin-left: 113px;
+}
+
+.resume1{
+    display: flex;
+    justify-content: center;
+    margin: 43px 0px;
+}
+
+#download_cv{
+    border: 2px solid grey;
+    color: black;
+    background: none;
+    width: 250px;
+    font-size: 19px;
+    transition: 0.5s;
+    margin-bottom :70px
+}
+
+#download_cv:hover{
+    background-color: gray;
+}
